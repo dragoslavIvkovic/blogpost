@@ -2,11 +2,11 @@
 title: What is the best weight for a cat? (A Guide for Each Breed and Age)
 description: A lot of pet owners ask their vets, "Is my cat too fat or too skinny?" Learn the ideal weight for your cat by breed and age, and when to worry.
 date: 2025-02-23
-image: images/cat-weight/cover.png
+image: https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/cat-weight/cover.png
 author: Vet Record Team
 ---
 
-![Vet Record – Best weight for a cat guide, ideal cat weight by breed and age](./images/cat-weight/cover.png)
+![Vet Record – Best weight for a cat guide, ideal cat weight by breed and age](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/cat-weight/cover.png)
 
 A lot of pet owners ask their vets, "Is my cat too fat or too skinny?" It's not always enough to just look at cats to tell if they are healthy because they have fur and come in all forms and sizes.
 
@@ -47,7 +47,7 @@ This is the phase of keeping things going. The weight of an adult cat should sta
 
 As cats get older, they generally lose muscular mass, which makes them lighter. But if your older cat suddenly or steadily loses weight, it's not just because they're getting older; it's frequently a sign of a medical problem.
 
-![Vet Record app – Cat weight tracking and health monitoring by breed and age](./images/cat-weight/second cat image.png)
+![Vet Record app – Cat weight tracking and health monitoring by breed and age](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/cat-weight/second-cat-image.png)
 
 ## When Should You Be Worried About Your Cat's Weight Change?
 

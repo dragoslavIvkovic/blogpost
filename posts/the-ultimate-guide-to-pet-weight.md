@@ -2,11 +2,11 @@
 title: The Ultimate Guide to Pet Weight: How Much Should Your Cat or Dog Weigh?
 description: Pet weight is one of the greatest things that makes owners worry. Learn veterinarian-approved tips for keeping an eye on your pet's health at home.
 date: 2025-02-23
-image: images/pet_weight/cover.png
+image: https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/pet_weight/cover.png
 author: Vet Record Team
 ---
 
-![Vet Record – The Ultimate Guide to Pet Weight cover image showing dog and cat health tracking](./images/pet_weight/cover.png)
+![Vet Record – The Ultimate Guide to Pet Weight cover image showing dog and cat health tracking](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/pet_weight/cover.png)
 
 Pet weight is one of the greatest things that makes owners worry, whether their puppy is growing too fast or their cat is getting a little rounder. It's important for your pet's long-term health, joint mobility, and longevity to know if they are underweight, overweight, or growing normally.
 
@@ -42,7 +42,7 @@ The largest error pet owners make is thinking that the yearly trip to the vet is
 
 To be able to react in time, you need to keep an eye on how your weight fluctuates along with your everyday routines, like how often you walk, how much you eat, or how your mood varies. If you write this down on a notebook or just remember it, you will lose data. This is where committed digital tracking becomes the best way to keep yourself healthy.
 
-![Vet Record app – Pet weight tracking and health monitoring screen](./images/pet_weight/second image.png)
+![Vet Record app – Pet weight tracking and health monitoring screen](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/pet_weight/second-image.png)
 
 ## When compared to PetDesk and VitusVet, which pet health record app is the best?
 

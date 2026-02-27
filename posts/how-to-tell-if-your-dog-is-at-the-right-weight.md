@@ -2,11 +2,11 @@
 title: How to Tell if Your Dog is at the Right Weight (and Why the Scale Isn't Enough)
 description: It can be quite hard to tell if your dog is at a healthy weight. Learn the Body Condition Score (BCS), breed-specific tips, and how to track your dog's weight at home.
 date: 2025-02-23
-image: images/dog_weight/cover.png
+image: https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/dog_weight/cover.png
 author: Vet Record Team
 ---
 
-![Vet Record – How to tell if your dog is at the right weight, Body Condition Score guide](./images/dog_weight/cover.png)
+![Vet Record – How to tell if your dog is at the right weight, Body Condition Score guide](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/dog_weight/cover.png)
 
 It can be quite hard to tell if your dog is at a healthy weight. If you ask relatives, friends, or other people at the dog park, you'll get very varied ideas about what a "healthy" dog looks like.
 
@@ -42,7 +42,7 @@ Dachshunds have long spines that are very easy to hurt, like with Intervertebral
 
 For most breeds, ribs that may be seen imply that the dog is underweight. But for sighthounds like Greyhounds, Whippets, and some Pointers, having the final few ribs showing is absolutely normal for a healthy, athletic dog.
 
-![Vet Record app – Dog weight tracking and Body Condition Score monitoring](./images/dog_weight/second image.png)
+![Vet Record app – Dog weight tracking and Body Condition Score monitoring](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/dog_weight/second-image.png)
 
 ## The Biggest Mistake: "Food is Love"
 
