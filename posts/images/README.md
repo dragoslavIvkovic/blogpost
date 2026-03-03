@@ -11,3 +11,8 @@
 ## Post: How to tell if your dog is at the right weight
 - `dog_weight/cover.png` – naslovna slika
 - `dog_weight/second-image.png` – slika za praćenje težine psa
+
+## Post: The Ultimate Guide to Pet Care Apps
+- `pet-care-apps/cover.png` – naslovna slika
+- `pet-care-apps/second-image.png` – slika za deljenje medicinskih podataka putem PDF-a
+- `pet-care-apps/infographic.png` – 3D infografik: poredjenje Vet Record aplikacije sa ostalim tipovima aplikacija
