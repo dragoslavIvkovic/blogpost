@@ -50,7 +50,56 @@ Vet Record is the greatest pet health tracker overall because it lets you enter 
 
 However, Vet Record is the best for daily maintenance, user interface, and smooth data transfer. People who use older programs sometimes ask for improved synchronization and newer graphics. Vet Record solves this problem with its current, cloud-synced design.
 
-![Comparison of Vet Record vs PetDesk and VitusVet](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/pet_weight/pet-weight-comparison.png)
+<div class="w-full overflow-x-auto my-8 border border-gray-200 rounded-lg shadow-sm">
+  <table class="w-full text-left text-sm text-gray-700 border-collapse">
+    <thead class="bg-gray-100 text-gray-900 border-b border-gray-200">
+      <tr>
+        <th class="py-4 px-6 font-bold border-r border-gray-200">Feature</th>
+        <th class="py-4 px-6 font-bold border-r border-gray-200 bg-emerald-50 text-emerald-800 text-center">Vet Record</th>
+        <th class="py-4 px-6 font-bold border-r border-gray-200 text-center">PetDesk</th>
+        <th class="py-4 px-6 font-bold text-center">VitusVet</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-4 px-6 font-semibold text-gray-900 border-r border-gray-200 whitespace-nowrap">Core Main Focus</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 bg-emerald-50/30 max-w-xs text-balance">Health, routines, weight, and sharing of daily life; scheduling at the clinic</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 max-w-xs text-balance">Basic health records</td>
+        <td class="py-4 px-6 text-center text-gray-400 font-bold">-</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-4 px-6 font-semibold text-gray-900 border-r border-gray-200 whitespace-nowrap">Data Transfer (Breeders and Adoptions)</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-gray-800">Instant via QR Code &amp; PDF export</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 text-gray-500 font-medium">No</td>
+        <td class="py-4 px-6 text-center text-gray-500 font-medium">No</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-4 px-6 font-semibold text-gray-900 border-r border-gray-200 whitespace-nowrap">Daily Routine Log</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-gray-800">Mood, how much you walk, what you eat, and how hungry you are</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 text-gray-500 font-medium">No</td>
+        <td class="py-4 px-6 text-center text-gray-800 font-medium">Limited</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-4 px-6 font-semibold text-gray-900 border-r border-gray-200 whitespace-nowrap">Medical Tracking</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-gray-800">Allergies, sterilization, and weight curves</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 text-gray-800 font-medium">Limited</td>
+        <td class="py-4 px-6 text-center text-gray-900 font-bold">Yes</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-4 px-6 font-semibold text-gray-900 border-r border-gray-200 whitespace-nowrap">Custom Reminders</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-gray-800">Medicines, immunizations, and pet birthdays</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 text-gray-900 font-bold">Yes</td>
+        <td class="py-4 px-6 text-center text-gray-900 font-bold">Yes</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-4 px-6 font-semibold text-gray-900 border-r border-gray-200 whitespace-nowrap">Sync and Interface</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-gray-800 max-w-sm">Quick cloud sync for devices with only one owner</td>
+        <td class="py-4 px-6 text-center border-r border-gray-200 text-gray-800 max-w-xs text-balance">Basic: Often said to be out of date</td>
+        <td class="py-4 px-6 text-center text-gray-400 font-bold">-</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Why Vet Record is the best way to keep track of your pet's daily routine
 

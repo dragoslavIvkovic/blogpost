@@ -50,7 +50,112 @@ The fourth category combines daily health tracking, medical record management, s
 
 The table below compares the four app categories across the features that matter most. Pay close attention to the Family Share and PDF Export rows, as these are the features most commonly missing from competing apps.
 
-![Feature comparison table including Vet Record vs Tracker Apps](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/pet-care-apps/pet-care-comparison.png)
+<div class="w-full overflow-x-auto my-8 border border-gray-200 rounded-lg shadow-sm">
+  <table class="w-full text-left text-sm text-gray-700 border-collapse whitespace-nowrap">
+    <thead class="bg-gray-100 text-gray-900 border-b border-gray-200">
+      <tr>
+        <th class="py-4 px-6 font-bold border-r border-gray-200">Feature</th>
+        <th class="py-4 px-6 font-bold border-r border-gray-200 bg-emerald-50 text-emerald-800 text-center">Vet Record</th>
+        <th class="py-4 px-6 font-bold border-r border-gray-200 text-center">Basic Tracker Apps</th>
+        <th class="py-4 px-6 font-bold border-r border-gray-200 text-center">Vet-Tied Apps</th>
+        <th class="py-4 px-6 font-bold text-center">Standard Reminder Apps</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Multi-Pet Profiles</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">✅</td>
+        <td class="py-3 px-6 text-center text-lg">✅</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Family Share (Multi-User Sync)</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center text-lg">❌</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">One-Click PDF Export</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center text-lg">❌</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">QR Code Data Sharing</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center text-lg">❌</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Vaccine &amp; Medication Reminders</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">✅</td>
+        <td class="py-3 px-6 text-center text-lg">✅</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Appointment Reminders</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">✅</td>
+        <td class="py-3 px-6 text-center text-lg">✅</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Birthday Reminders</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center text-lg">❌</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Weight &amp; Growth Tracking</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center text-lg">❌</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Daily Mood &amp; Activity Log</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center text-lg">❌</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Allergy &amp; Condition Tracking</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">✅</td>
+        <td class="py-3 px-6 text-center text-lg">❌</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Emergency Vital Data Storage</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center text-lg">❌</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Cloud Sync Across Devices</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">✅</td>
+        <td class="py-3 px-6 text-center text-lg">❌</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Works with Any Vet</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 bg-emerald-50/30 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">✅</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-lg">❌</td>
+        <td class="py-3 px-6 text-center text-lg">✅</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 ## Visualizing the difference: User Convenience vs. Data Accessibility

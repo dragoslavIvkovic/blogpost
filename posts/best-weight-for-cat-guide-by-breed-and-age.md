@@ -18,7 +18,49 @@ A healthy domestic cat should weigh between 8 and 10 pounds (3.6 and 4.5 kg). Bu
 
 Here's a quick guide to prominent cat breeds that can help you figure out how much your cat should weigh:
 
-![Cat breed weight chart listing ideal weights for Maine Coon, Persian, Siamese, etc.](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/cat-weight/cat-breed-weight-chart.png)
+<div class="w-full overflow-x-auto my-8 border border-gray-200 rounded-lg shadow-sm">
+  <table class="w-full text-left text-sm text-gray-700 border-collapse whitespace-nowrap">
+    <thead class="bg-gray-100 text-gray-900 border-b border-gray-200">
+      <tr>
+        <th class="py-4 px-6 font-bold border-r border-gray-200 text-base">Type of Cat</th>
+        <th class="py-4 px-6 font-bold border-r border-gray-200 text-center text-base">Weight Range That Is Ideal (lbs)</th>
+        <th class="py-4 px-6 font-bold text-center text-base">Ideal Weight Range (kg)</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Home Short hair</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-gray-800">8–10 pounds</td>
+        <td class="py-3 px-6 text-center text-gray-600">3.6 to 4.5 kg</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Maine Coon</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-gray-800">10 to 25 pounds</td>
+        <td class="py-3 px-6 text-center text-gray-600">4.5 to 11.3 kg</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Ragdoll</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-gray-800">10 to 20 pounds</td>
+        <td class="py-3 px-6 text-center text-gray-600">4.5 to 9.0 kg</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Persian</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-gray-800">7 to 12 pounds</td>
+        <td class="py-3 px-6 text-center text-gray-600">3.2 to 5.4 kg</td>
+      </tr>
+      <tr class="bg-white hover:bg-gray-50">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Siamese</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-gray-800">5 to 10 pounds</td>
+        <td class="py-3 px-6 text-center text-gray-600">2.3 to 4.5 kg</td>
+      </tr>
+      <tr class="bg-gray-50 hover:bg-gray-100">
+        <td class="py-3 px-6 font-semibold text-gray-900 border-r border-gray-200">Sphynx</td>
+        <td class="py-3 px-6 text-center border-r border-gray-200 text-gray-800">6 to 12 pounds</td>
+        <td class="py-3 px-6 text-center text-gray-600">2.7 to 5.4 kg</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 *Note: Male cats of the same breed are usually bigger and heavier than female cats.*
 
