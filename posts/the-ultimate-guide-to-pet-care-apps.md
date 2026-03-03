@@ -50,8 +50,9 @@ The fourth category combines daily health tracking, medical record management, s
 
 The table below compares the four app categories across the features that matter most. Pay close attention to the Family Share and PDF Export rows, as these are the features most commonly missing from competing apps.
 
+
 | Feature | Vet Record | Basic Tracker Apps | Vet-Tied Apps | Standard Reminder Apps |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | **Multi-Pet Profiles** | ✅ | ✅ | ✅ | ✅ |
 | **Family Share (Multi-User Sync)** | ✅ | ❌ | ❌ | ❌ |
 | **One-Click PDF Export** | ✅ | ❌ | ❌ | ❌ |
@@ -65,6 +66,7 @@ The table below compares the four app categories across the features that matter
 | **Emergency Vital Data Storage** | ✅ | ❌ | ❌ | ❌ |
 | **Cloud Sync Across Devices** | ✅ | ❌ | ✅ | ❌ |
 | **Works with Any Vet** | ✅ | ✅ | ❌ | ✅ |
+
 
 ## Visualizing the difference: User Convenience vs. Data Accessibility
 
