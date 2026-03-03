@@ -50,22 +50,110 @@ The fourth category combines daily health tracking, medical record management, s
 
 The table below compares the four app categories across the features that matter most. Pay close attention to the Family Share and PDF Export rows, as these are the features most commonly missing from competing apps.
 
-
-| Feature | Vet Record | Basic Tracker Apps | Vet-Tied Apps | Standard Reminder Apps |
-|:---|:---|:---|:---|:---|
-| **Multi-Pet Profiles** | ✅ | ✅ | ✅ | ✅ |
-| **Family Share (Multi-User Sync)** | ✅ | ❌ | ❌ | ❌ |
-| **One-Click PDF Export** | ✅ | ❌ | ❌ | ❌ |
-| **QR Code Data Sharing** | ✅ | ❌ | ❌ | ❌ |
-| **Vaccine & Medication Reminders** | ✅ | ❌ | ✅ | ✅ |
-| **Appointment Reminders** | ✅ | ❌ | ✅ | ✅ |
-| **Birthday Reminders** | ✅ | ❌ | ❌ | ❌ |
-| **Weight & Growth Tracking** | ✅ | ✅ | ❌ | ❌ |
-| **Daily Mood & Activity Log** | ✅ | ❌ | ❌ | ❌ |
-| **Allergy & Condition Tracking** | ✅ | ❌ | ✅ | ❌ |
-| **Emergency Vital Data Storage** | ✅ | ❌ | ❌ | ❌ |
-| **Cloud Sync Across Devices** | ✅ | ❌ | ✅ | ❌ |
-| **Works with Any Vet** | ✅ | ✅ | ❌ | ✅ |
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Vet Record</th>
+      <th>Basic Tracker Apps</th>
+      <th>Vet-Tied Apps</th>
+      <th>Standard Reminder Apps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Multi-Pet Profiles</strong></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td><strong>Family Share (Multi-User Sync)</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><strong>One-Click PDF Export</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><strong>QR Code Data Sharing</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><strong>Vaccine &amp; Medication Reminders</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td><strong>Appointment Reminders</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td><strong>Birthday Reminders</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><strong>Weight &amp; Growth Tracking</strong></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><strong>Daily Mood &amp; Activity Log</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><strong>Allergy &amp; Condition Tracking</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><strong>Emergency Vital Data Storage</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud Sync Across Devices</strong></td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td><strong>Works with Any Vet</strong></td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Visualizing the difference: User Convenience vs. Data Accessibility

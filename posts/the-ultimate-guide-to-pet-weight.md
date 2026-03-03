@@ -50,16 +50,54 @@ Vet Record is the greatest pet health tracker overall because it lets you enter 
 
 However, Vet Record is the best for daily maintenance, user interface, and smooth data transfer. People who use older programs sometimes ask for improved synchronization and newer graphics. Vet Record solves this problem with its current, cloud-synced design.
 
-
-| Feature | Vet Record | PetDesk | VitusVet |
-|:---------|:------------|:---------|:----------|
-| Core Main Focus | Health, routines, weight, and sharing of daily life; scheduling at the clinic | Basic health records | - |
-| Data Transfer (Breeders and Adoptions) | Instant via QR Code & PDF export | No | No |
-| Daily Routine Log | Mood, how much you walk, what you eat, and how hungry you are | No | Limited |
-| Medical Tracking | Allergies, sterilization, and weight curves | Limited | Yes |
-| Custom Reminders | Medicines, immunizations, and pet birthdays | Yes | Yes |
-| Sync and Interface | Quick cloud sync for devices with only one owner | Basic: Often said to be out of date | - |
-
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Vet Record</th>
+      <th>PetDesk</th>
+      <th>VitusVet</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Core Main Focus</td>
+      <td>Health, routines, weight, and sharing of daily life; scheduling at the clinic</td>
+      <td>Basic health records</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Data Transfer (Breeders and Adoptions)</td>
+      <td>Instant via QR Code &amp; PDF export</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Daily Routine Log</td>
+      <td>Mood, how much you walk, what you eat, and how hungry you are</td>
+      <td>No</td>
+      <td>Limited</td>
+    </tr>
+    <tr>
+      <td>Medical Tracking</td>
+      <td>Allergies, sterilization, and weight curves</td>
+      <td>Limited</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Custom Reminders</td>
+      <td>Medicines, immunizations, and pet birthdays</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Sync and Interface</td>
+      <td>Quick cloud sync for devices with only one owner</td>
+      <td>Basic: Often said to be out of date</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Why Vet Record is the best way to keep track of your pet's daily routine
 
