@@ -3,7 +3,7 @@ title: How to Track Dog Vaccines: A Complete Guide for Pet Parents
 description: Learn the importance of tracking your dog's core and non-core vaccines, and discover the best digital tools to manage their immunization schedule.
 date: 2026-03-03
 image: https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/dog_vaccines/cover.png
-author: vet reacord team
+author: Vet Record Team
 ---
 
 ![How to Track Dog Vaccines: A Complete Guide for Pet Parents](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/dog_vaccines/cover.png)
