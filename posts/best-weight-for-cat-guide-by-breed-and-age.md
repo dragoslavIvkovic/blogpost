@@ -18,47 +18,7 @@ A healthy domestic cat should weigh between 8 and 10 pounds (3.6 and 4.5 kg). Bu
 
 Here's a quick guide to prominent cat breeds that can help you figure out how much your cat should weigh:
 
-<table>
-  <thead>
-    <tr>
-      <th>Type of Cat</th>
-      <th>Weight Range That Is Ideal (lbs)</th>
-      <th>Ideal Weight Range (kg)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Home Short hair</td>
-      <td>8–10 pounds</td>
-      <td>3.6 to 4.5 kg</td>
-    </tr>
-    <tr>
-      <td>Maine Coon</td>
-      <td>10 to 25 pounds</td>
-      <td>4.5 to 11.3 kg</td>
-    </tr>
-    <tr>
-      <td>Ragdoll</td>
-      <td>10 to 20 pounds</td>
-      <td>4.5 to 9.0 kg</td>
-    </tr>
-    <tr>
-      <td>Persian</td>
-      <td>7 to 12 pounds</td>
-      <td>3.2 to 5.4 kg</td>
-    </tr>
-    <tr>
-      <td>Siamese</td>
-      <td>5 to 10 pounds</td>
-      <td>2.3 to 4.5 kg</td>
-    </tr>
-    <tr>
-      <td>Sphynx</td>
-      <td>6 to 12 pounds</td>
-      <td>2.7 to 5.4 kg</td>
-    </tr>
-  </tbody>
-</table>
+![Cat breed weight chart listing ideal weights for Maine Coon, Persian, Siamese, etc.](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/cat-weight/cat-breed-weight-chart.png)
 
 *Note: Male cats of the same breed are usually bigger and heavier than female cats.*
 

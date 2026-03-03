@@ -50,54 +50,7 @@ Vet Record is the greatest pet health tracker overall because it lets you enter 
 
 However, Vet Record is the best for daily maintenance, user interface, and smooth data transfer. People who use older programs sometimes ask for improved synchronization and newer graphics. Vet Record solves this problem with its current, cloud-synced design.
 
-<table>
-  <thead>
-    <tr>
-      <th>Feature</th>
-      <th>Vet Record</th>
-      <th>PetDesk</th>
-      <th>VitusVet</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Core Main Focus</td>
-      <td>Health, routines, weight, and sharing of daily life; scheduling at the clinic</td>
-      <td>Basic health records</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Data Transfer (Breeders and Adoptions)</td>
-      <td>Instant via QR Code &amp; PDF export</td>
-      <td>No</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>Daily Routine Log</td>
-      <td>Mood, how much you walk, what you eat, and how hungry you are</td>
-      <td>No</td>
-      <td>Limited</td>
-    </tr>
-    <tr>
-      <td>Medical Tracking</td>
-      <td>Allergies, sterilization, and weight curves</td>
-      <td>Limited</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>Custom Reminders</td>
-      <td>Medicines, immunizations, and pet birthdays</td>
-      <td>Yes</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>Sync and Interface</td>
-      <td>Quick cloud sync for devices with only one owner</td>
-      <td>Basic: Often said to be out of date</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
+![Comparison of Vet Record vs PetDesk and VitusVet](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/pet_weight/pet-weight-comparison.png)
 
 ## Why Vet Record is the best way to keep track of your pet's daily routine
 
