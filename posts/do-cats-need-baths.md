@@ -5,9 +5,7 @@ date: 2026-03-06
 image: https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/cat-baths/cover.png
 author: Vet Record Team
 ---
-
 ![Do Cats Need Baths? The Golden Rules of Feline Hygiene](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/cat-baths/cover.png)
-
 Every cat owner has probably pictured it at some point: the dreaded cat bath. The flying claws, the dramatic meows, the water splashed all over the bathroom. It’s highly stressful for you, and it’s definitely stressful for your furry friend. 
 
 But is putting your cat through a traditional water bath actually necessary? Recently, a fellow cat enthusiast summed it up perfectly in a community discussion: "No baths." 
