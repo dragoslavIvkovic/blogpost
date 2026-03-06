@@ -27,11 +27,15 @@ Transitioning from paper to a digital vet records app offers several life-saving
 - **Seamless Sharing:** Traveling, moving to a new city, or hiring a new pet sitter? You can easily share your vet records without the hassle of requesting physical copies from your previous clinic.
 - **Multi-Pet Management:** If you have a full house, keeping track of who needs what can be confusing. The right app separates profiles so you always know exactly which pet needs care.
 
+![Digital vet records management with Vet Record](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/pet-health-records/second-image.png)
+
 ## How does Vet Record simplify pet care?
 
 We built Vet Record because we understand that pet parents need a simple, intuitive, and secure solution. As a top-rated pet medical record app, it is designed to take the stress out of pet care.
 
 With a user-friendly interface, you can log visits, update weights, track medications, and store essential documents in just a few taps. It’s the modern way to ensure your pet gets the consistent, high-quality care they deserve throughout their entire life.
+
+![Vet Record App simplifying daily pet care routines](https://raw.githubusercontent.com/dragoslavIvkovic/blogpost/main/posts/images/pet-health-records/third-image.png)
 
 ## Start Organizing Your Pet's Health Today
 
